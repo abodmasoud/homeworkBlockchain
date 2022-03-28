@@ -1,0 +1,103 @@
+{
+  "chain": [
+    {
+      "index": 0,
+      "timestamp": "25/12/2020",
+      "data": "Genesis block",
+      "previousHash": "0",
+      "hash": "0fc4187c265dec7cefcacf8e07b88f656b8db3686f4985d61ceb8354e3722bee",
+      "nonce": 0
+    },
+    {
+      "index": 1,
+      "timestamp": "18/02/2021",
+      "data": {
+        "amount": 4
+      },
+      "previousHash": "0fc4187c265dec7cefcacf8e07b88f656b8db3686f4985d61ceb8354e3722bee",
+      "hash": "000b47f2e95447b64ae15db48a485794164f4563351d093ba5b1a29f4e892342",
+      "nonce": 796
+    },
+    {
+      "index": 2,
+      "timestamp": "18/04/2021",
+      "data": {
+        "amount": 8
+      },
+      "previousHash": "000b47f2e95447b64ae15db48a485794164f4563351d093ba5b1a29f4e892342",
+      "hash": "00e7da753fccc66491563fcdf2571c88e39f83780e6875f56f38cdb86791ab2d",
+      "nonce": 588
+    },
+    {
+      "index": 3,
+      "timestamp": "18/04/2021",
+      "data": {
+        "amount": 10
+      },
+      "previousHash": "00e7da753fccc66491563fcdf2571c88e39f83780e6875f56f38cdb86791ab2d",
+      "hash": "00cadfacb09eec905bff1b385b91a154db4d664e23f646c8401709c0d08f4062",
+      "nonce": 345
+    },
+    {
+      "index": 4,
+      "timestamp": "18/04/2021",
+      "data": {
+        "amount": 12
+      },
+      "previousHash": "00cadfacb09eec905bff1b385b91a154db4d664e23f646c8401709c0d08f4062",
+      "hash": "00336f02fc5eece998637bdfb4e02177874d471ce6b28f903a356b8e76cf9f40",
+      "nonce": 612
+    },
+    {
+      "index": 5,
+      "timestamp": "18/04/2021",
+      "data": {
+        "amount": 14
+      },
+      "previousHash": "00336f02fc5eece998637bdfb4e02177874d471ce6b28f903a356b8e76cf9f40",
+      "hash": "0092d5e664e900edfb707374b2d6fadd7e88110dd57e53fc67256b9368412918",
+      "nonce": 912
+    },
+    {
+      "index": 6,
+      "timestamp": "18/04/2021",
+      "data": {
+        "amount": 8
+      },
+      "previousHash": "0092d5e664e900edfb707374b2d6fadd7e88110dd57e53fc67256b9368412918",
+      "hash": "00908a54642feb838e3b409e21a5e9cab1a2bf6556ae04d1c2116412af2acdf7",
+      "nonce": 77
+    },
+    {
+      "index": 7,
+      "timestamp": "18/04/2021",
+      "data": {
+        "amount": 4
+      },
+      "previousHash": "00908a54642feb838e3b409e21a5e9cab1a2bf6556ae04d1c2116412af2acdf7",
+      "hash": "00116253172a2019af9b865446b2e1272b8d0b5074da4e8a437110727321f416",
+      "nonce": 13
+    },
+    {
+      "index": 8,
+      "timestamp": "18/04/2021",
+      "data": {
+        "amount": 10
+      },
+      "previousHash": "00116253172a2019af9b865446b2e1272b8d0b5074da4e8a437110727321f416",
+      "hash": "00d03f7883a0995265b8b32d69e966baaa5647d7581a1ec9c711564533bc0480",
+      "nonce": 163
+    },
+    {
+      "index": 9,
+      "timestamp": "18/04/2021",
+      "data": {
+        "amount": 25
+      },
+      "previousHash": "00d03f7883a0995265b8b32d69e966baaa5647d7581a1ec9c711564533bc0480",
+      "hash": "00438505800f46787cc5d63f37b4d626f21aa964c7e51d2cebab88bc7c6e9a3e",
+      "nonce": 552
+    }
+  ],
+  "difficulty": 2
+}
